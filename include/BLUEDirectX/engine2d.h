@@ -1,12 +1,12 @@
 ﻿#pragma once
-#include <BLUEDirectX/Def.h>
-#include <BLUEDirectX/com.h>
+#include "BLUEDirectX/Def.h"
+#include "BLUEDirectX/com.h"
 #include <ddraw.h>
 #include <dinput.h>
 #include <list>
 #pragma comment(lib, "ddraw.lib")
 #pragma comment(lib, "dxguid.lib")
-#pragma comment(lib, "dinput.lib")
+//#pragma comment(lib, "dinput.lib")
 #pragma comment(lib, "dinput8.lib")
 
 ///////////////E2D引擎错误代码列表////////////////////

@@ -1,4 +1,4 @@
-﻿#include <BLUEDirectX\Game2D.h>
+﻿#include "BLUEDirectX\Game2D.h"
 
 ////////////////////////CDXGameRun2D////////////////////////
 CDXGameRun2D::CDXGameRun2D(void)

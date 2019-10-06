@@ -1,5 +1,5 @@
 ﻿#pragma once
-#include <BLUEDirectX/Def.h>
+#include "BLUEDirectX/Def.h"
 
 template <class T>
 class _NoAddRefReleaseOnCDXComPtr : public T

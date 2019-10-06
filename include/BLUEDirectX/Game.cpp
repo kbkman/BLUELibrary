@@ -1,4 +1,4 @@
-﻿#include <BLUEDirectX\Game.h>
+﻿#include "BLUEDirectX/Game.h"
 
 #define DGR_WNDCLASS_NAME        _BLUET("DXGameRunWnd")
 

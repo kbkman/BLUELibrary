@@ -1,5 +1,5 @@
 ﻿#pragma once
-#include <BLUEDirectX/Def.h>
+#include "BLUEDirectX/Def.h"
 
 struct DXGAMERUNDATABASE//DXGameRun运行时需要的基本参数
 {

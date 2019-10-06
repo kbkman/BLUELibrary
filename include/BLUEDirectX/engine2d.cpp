@@ -1,4 +1,4 @@
-﻿#include <BLUEDirectX\Engine2D.h>
+﻿#include "BLUEDirectX\Engine2D.h"
 
 HRESULT E2DCreateDDRAW7(LPDIRECTDRAW7* pp)
 {

@@ -1,7 +1,7 @@
 ﻿#pragma once
-#include <BLUEDirectX/Def.h>
-#include <BLUEDirectX/Game.h>
-#include <BLUEDirectX/Engine2D.h>
+#include "BLUEDirectX/Def.h"
+#include "BLUEDirectX/Game.h"
+#include "BLUEDirectX/Engine2D.h"
 
 //#define DXGAME2D_USE_EXCLUSIVE_MODE
 
